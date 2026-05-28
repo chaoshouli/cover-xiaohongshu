@@ -16,16 +16,10 @@
 
 <table>
   <tr>
-    <td><img src="assets/examples/01-双面特工.png" width="180"/></td>
-    <td><img src="assets/examples/02-再见了Figma.png" width="180"/></td>
-    <td><img src="assets/examples/03-角色一致.png" width="180"/></td>
-    <td><img src="assets/examples/04-动画自由.png" width="180"/></td>
-  </tr>
-  <tr>
-    <td><img src="assets/examples/05-Claude鞭子.png" width="180"/></td>
-    <td><img src="assets/examples/06-MYTHOS.png" width="180"/></td>
-    <td><img src="assets/examples/07-前端设计.png" width="180"/></td>
-    <td><img src="assets/examples/08-养虾必备.png" width="180"/></td>
+    <td><img src="assets/examples/01-cover-sample.png" width="180"/></td>
+    <td><img src="assets/examples/02-cover-sample.png" width="180"/></td>
+    <td><img src="assets/examples/03-cover-sample.png" width="180"/></td>
+    <td><img src="assets/examples/04-cover-sample.png" width="180"/></td>
   </tr>
 </table>
 
